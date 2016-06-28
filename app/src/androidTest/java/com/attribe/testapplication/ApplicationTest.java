@@ -1,4 +1,4 @@
-package com.example.attribe.testapplication;
+package com.attribe.testapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

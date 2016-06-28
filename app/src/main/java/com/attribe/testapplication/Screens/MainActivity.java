@@ -1,4 +1,4 @@
-package com.example.attribe.testapplication.Screens;
+package com.attribe.testapplication.Screens;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-import com.example.attribe.testapplication.R;
+import com.attribe.testapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
